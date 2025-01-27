@@ -1,42 +1,22 @@
-# RealEstate-Scraper-KSA
+[data-sample.csv](https://github.com/user-attachments/files/18557321/data-sample.csv)# RealEstate-Scraper-KSA
 
 This project is a web scraping tool designed to gather prices and detailed property information for apartments listed for sale in Dammam, Saudi Arabia (KSA).
 
 The data is collected from a popular real estate platform in Saudi Arabia, focusing on apartments for sale over the last three years. The tool organizes the scraped data into a structured CSV file with the following details:
 
-## Property Details:
-- **المساحة (Area)**  
-- **عمر العقار (Property Age)**  
-- **الدور (Floor)**  
-- **دورات المياه (Bathrooms)**  
-- **الصالات (Living Rooms)**  
-- **غرف النوم (Bedrooms)**  
-- **الواجهة (Facade)**  
+- **Property Details:**
+  - Area, Property Age, Floor, Bathrooms, Living Rooms, Bedrooms, Facade.
+- **Boolean Features (True/Null):**
+  - Parking, Elevator, Water Supply, Electricity Supply, Sewage Availability, Private Roof, Two Entrances.
+- **Location Details:**
+  - Region, City, Neighborhood, Street, Postal Code.
+- **Other Details:**
+  - Published Date, Price
 
-## Boolean Features (True/Null):
-- **مدخل سيارة (Parking)**  
-- **مصعد (Elevator)**  
-- **توفر الماء (Water Supply)**  
-- **توفر الكهرباء (Electricity Supply)**  
-- **توفر صرف صحي (Sewage Availability)**  
-- **سطح خاص (Private Roof)**  
-- **مدخلين (Two Entrances)**  
+### Sample Data:
 
-## Location Details:
-- **المنطقة (Region)**  
-- **المدينة (City)**  
-- **الحي (Neighborhood)**  
-- **الشارع (Street)**  
-- **الرمز البريدي (Postal Code)**  
+<img width="870" alt="image" src="https://github.com/user-attachments/assets/eb253c7c-00cc-443d-a58b-ef9ad2949387" />
 
-## Other Details:
-- **Price**  
-- **Page Number**  
-- **Page Link**  
-- **Apartment Link**  
-- **Published Date**  
-
-This tool provides valuable insights into the real estate market for apartments in Dammam, KSA, with comprehensive and structured data for analysis.
 
 ---
 
