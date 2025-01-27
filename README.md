@@ -1,4 +1,4 @@
-[data-sample.csv](https://github.com/user-attachments/files/18557321/data-sample.csv)# RealEstate-Scraper-KSA
+# RealEstate-Scraper-KSA
 
 This project is a web scraping tool designed to gather prices and detailed property information for apartments listed for sale in Dammam, Saudi Arabia (KSA).
 
