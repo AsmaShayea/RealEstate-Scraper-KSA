@@ -2,7 +2,7 @@
 
 This project is a web scraping tool designed to gather prices and detailed property information for apartments listed for sale in Dammam, Saudi Arabia (KSA).
 
-The data is collected from a popular real estate platform in Saudi Arabia, focusing on apartments for sale over the last three years. The tool organizes the scraped data into a structured CSV file with the following details:
+The data is collected from a popular real estate platform in Saudi Arabia, focusing on apartments for sale. The tool organizes the scraped data into a structured CSV file with the following details:
 
 - **Property Details:**
   - Area, Property Age, Floor, Bathrooms, Living Rooms, Bedrooms, Facade.
