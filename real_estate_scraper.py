@@ -170,7 +170,7 @@ def append_to_csv(data, filename):
 
 # Main function
 def main():
-    base_url = "https://example.com"  # Hidden for privacy
+    base_url = "https://sa.aqar.fm/شقق-للبيع/الرياض"  # Apartments for sale in Riyadh city
     csv_filename = "apartment_data.csv"
     with open(csv_filename, "w", newline="", encoding="utf-8") as csvfile:
         pass
